@@ -23,4 +23,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/ceH4PQzzhe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /># dunya-unit5
+<img src='http://g.recordit.co/ceH4PQzzhe.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Sign Up
+
+<img src='http://g.recordit.co/JWfjYZS4VJ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
